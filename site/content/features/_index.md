@@ -1,13 +1,10 @@
 ---
-title: Our Coffee
+title: Our App
 type: features
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  The HeyCoach app helps you build better relationships with your athletes, from recruits to alumni.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -39,10 +36,13 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    From recruit, to current athlete, to alumnus - it's the same person. HeyCoach finally offers a better way to keep track of your athlete's contact info, making it simple to connect and improve your relationship. HeyCoach gets out of your way so you can:
+    
+    - Bring in better recruits
+    - Build a tight-knit team
+    - Improve alumni support
+
+    Based on Flarepoint CRM (Bottelet/Flarepoint-crm)
 main:
   heading: Great coffee with no compromises
   description: >
@@ -98,5 +98,3 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
-
