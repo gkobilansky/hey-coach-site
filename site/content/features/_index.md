@@ -1,7 +1,7 @@
 ---
 title: Our App
 type: features
-image: /img/products-jumbotron.jpg
+image: /img/wrestling-4.jpg
 heading: What we offer
 description: >-
   The HeyCoach app helps you build better relationships with your athletes, from recruits to alumni.
@@ -37,7 +37,7 @@ intro:
   heading: What we offer
   description: >
     From recruit, to current athlete, to alumnus - it's the same person. HeyCoach finally offers a better way to keep track of your athlete's contact info, making it simple to connect and improve your relationship. HeyCoach gets out of your way so you can:
-    
+
     - Bring in better recruits
     - Build a tight-knit team
     - Improve alumni support

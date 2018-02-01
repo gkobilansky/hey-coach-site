@@ -21,4 +21,4 @@ That doesn't mean we'll stay limited to recruiting process though. From recruit,
 * Build a tight-knit team
 * Improve alumni support
 
-Most importantly, I want to hear from YOU sooner than later. Leave a comment below if you think this could be helpful for your team (or if it's the worst idea you've ever hear of).
+Most importantly, I want to hear from YOU sooner than later. Send me an email or tweet us @heycoach_app if you think this could be helpful for your team (or if it's the worst idea you've ever hear of).
