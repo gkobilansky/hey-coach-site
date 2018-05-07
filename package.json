@@ -1,7 +1,7 @@
 {
-  "name": "victor-hugo",
+  "name": "hey-coach",
   "version": "1.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
+  "description": "heycoach is a recruiting tool for wrestling coaches",
   "main": "index.js",
   "scripts": {
     "hugo": "gulp hugo",

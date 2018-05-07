@@ -4,11 +4,13 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-{{ partial "short-text" .Params.blurb}}
+{{ partial "beta-testing" . }}
+
+{{ partial "short-text" .Params.blurb | markdownify}}
 
 {{ partial "2-up" .Params }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text) }}
+{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text ) }}
 
 {{ partial "blog" . }}
 
